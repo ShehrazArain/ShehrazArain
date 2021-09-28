@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-## 🔭 I'm MERN STACK Developer [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=codefactor.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🔭 I'm MERN STACK Developer [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=codefactor.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ` 😄 Shehraz Arain` |  `🌱 Karachi, Pakistan` | <img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo"/> `linkedin.com/in/shehraz-arain-9531b1181/`
 
